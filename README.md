@@ -1,8 +1,7 @@
 # Dulcet
-The "Web develpment" course project for FCIS ASU (Summer 2022)
+The "Web development" course project for FCIS ASU (Summer 2022)
 
-"Dulcet" is a clothing brand front-end website made with HTML, CSS, JavaScript 
-The website is A team Work project
+"Dulcet" is a clothing brand front-end website made with HTML, CSS, and JavaScript The website is A team Work project
 
 Version 1.0 Features:
 * has About page
